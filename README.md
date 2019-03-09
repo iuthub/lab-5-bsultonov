@@ -1,10 +1,9 @@
-# Lab 5: Buy Grades For Money
+# Lab 4: Create your Music List
 
-In this exercises, you should make a form which takes payment information from suckers who want to buy a grade, and store it in a `suckers.txt` file.
+You need to use given repo to create your music list.
 
+### Student Details
 
-### Student Details:
-
-- **Student ID**: your student id
+- **Student ID**: your studentID
 - **Student Name**: your name
-- **Section Number**: your section number
+- **Section Number**: your course section number
